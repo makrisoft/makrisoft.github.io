@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Daily Research]]></title>
+  <link href="http://makrisoft.github.io/atom.xml" rel="self"/>
+  <link href="http://makrisoft.github.io/"/>
+  <updated>2013-07-28T00:08:21-04:00</updated>
+  <id>http://makrisoft.github.io/</id>
+  <author>
+    <name><![CDATA[Ernie Makris]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
